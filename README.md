@@ -38,5 +38,5 @@ Completed successfully and awarded the official **Deloitte Data Analytics Certif
 ## 🔗 Project Resources & Outputs
 
 * 📊 **Tableau Interactive Dashboard / Screenshot:** [View Dashboard Image](Deloitte_Data_Analytics_Dashboard.png)
-* 📁 **Completed Excel Analysis:** [Download Equality Table_Completed.xlsx](Equality%20Table_Completed.xlsx)
+* 📁 **Completed Excel Analysis:** [Download Equality Table_Completed.xlsx](https://github.com/eyabenkhedher-portfolio/Deloitte-Data-Analytics-Virtual-Experience/blob/main/Task%205%20Equality%20Table(Sheet1).csv)
 * 📜 **Official Deloitte Certificate:** [Verify Certificate on LinkedIn](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a7de03600ad9dc2bfab9ef1_1786702650048_completion_certificate.pdf)
